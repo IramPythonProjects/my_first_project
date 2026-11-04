@@ -3,7 +3,7 @@
 This is my first Numpy project.
 
 ### What it does:
-- Calculates average marks of students
+- Calculates average marks of 5 students
 - Finds highest and lowest marks
 - Calculates overall class average
 
