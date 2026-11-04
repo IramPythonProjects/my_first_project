@@ -1,14 +1,21 @@
-# Student Marks Calculator
+# Student Projects Portfolio
+Author: Iram Shehzadi
 
+## Projects:
+
+### 1. Student Marks Calculator (Numpy)
 This is my first Numpy project.
 
-### What it does:
+What it does:
 - Calculates average marks of 5 students
 - Finds highest and lowest marks
 - Calculates overall class average
 
-### Technology used:
+### 2. Student Grade System
+Automatically calculates grades (A+, A, B, C, Fail) based on student marks.
+
+Technology used:
 - Python
 - Numpy Library
- Student Grade System - Calculates grades (A+, A, B, C, Fail) automatically.
+
 Created by Iram Shehzadi
