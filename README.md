@@ -10,5 +10,5 @@ This is my first Numpy project.
 ### Technology used:
 - Python
 - Numpy Library
-
+ Student Grade System - Calculates grades (A+, A, B, C, Fail) automatically.
 Created by Iram Shehzadi
