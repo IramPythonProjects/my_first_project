@@ -1,8 +1,10 @@
-#My First Numpy Project_ students marks calculator 
-#Created by Iram Shehzadi 
+# Student Marks Calculator - Numpy Project
+# Author: Iram Shehzadi
+# Description: Calculates student performance using Numpy
+
 import numpy as np
 
-# 5 students ke marks (English, Math, Science)
+# Marks of 5 students in 3 subjects (English, Math, Science)
 marks = np.array([
     [80, 90, 85],
     [70, 75, 80],
@@ -11,15 +13,15 @@ marks = np.array([
     [85, 88, 90]
 ])
 
-print("Marks:\n", marks)
+print("Student Marks Dataset:\n", marks)
 
-# Har student ka average
-average = np.mean(marks, axis=1)
-print("\nHar student ka average:", average)
+# Calculate average marks for each student
+average_per_student = np.mean(marks, axis=1)
+print("\nAverage Marks Per Student:", average_per_student)
 
-# Sab se zyada aur kam marks
-print("\nSab se zyada marks:", np.max(marks))
-print("Sab se kam marks:", np.min(marks))
+# Find highest and lowest marks in the class
+print("\nHighest Marks in Class:", np.max(marks))
+print("Lowest Marks in Class:", np.min(marks))
 
-# Class ka overall average
-print("\nClass ka average:", np.mean(marks))
+# Calculate overall class average
+print("\nOverall Class Average:", np.mean(marks))
