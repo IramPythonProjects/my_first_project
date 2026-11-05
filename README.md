@@ -17,7 +17,7 @@ Automatically calculates grades (A+, A, B, C, Fail) based on student marks.
 Technology used:
 - Python
 - Numpy Library
-## 3. To-Do List Project
+## 3. To-do_lisy Project
 A simple Python app where you can add, view and delete tasks.
 
 To run: python To_do_list.py
