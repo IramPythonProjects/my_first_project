@@ -19,6 +19,7 @@ Technology used:
 - Numpy Library
 ## 3. To-Do List Project
 A simple Python app where you can add, view and delete tasks.
+
 To run: python To_do_list.py
 
 Created by Iram Shehzadi
